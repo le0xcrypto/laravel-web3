@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": "^8.0",
-        "le0xcrypto/test": "dev-master"
+        "le0xcrypto/web3.php": "dev-master"
     },
     "autoload": {
         "psr-4": {
